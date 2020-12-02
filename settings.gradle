@@ -1,0 +1,3 @@
+rootProject.name='APP_Student'
+include ':app', ':liveRtmpPushSDK',
+        ':rtmp', ':picture_library', ':ucrop', ':idcardcamera'

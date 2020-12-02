@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.alex.livertmppushsdk" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="30" />
+7-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.CAMERA" />
+9-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:5:3-65
+9-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:5:20-62
+10
+11    <uses-feature android:name="android.hardware.camera" />
+11-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:6:3-60
+11-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:6:17-57
+12    <uses-feature android:name="android.hardware.camera.autofocus" />
+12-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:7:3-70
+12-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:7:17-67
+13
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:8:3-95
+14-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:8:20-76
+15    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+15-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:9:3-85
+15-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:9:20-66
+16    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+16-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:11:5-96
+16-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:11:22-76
+17    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+17-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:12:5-93
+17-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:12:22-73
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:13:5-96
+18-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:13:22-76
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:14:5-93
+19-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:14:22-73
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:15:5-84
+20-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:15:22-64
+21    <uses-permission android:name="android.permission.WAKE_LOCK" />
+21-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:16:5-85
+21-->E:\Program\zhkt-dev\wisdomclass_app_teacher\liveRtmpPushSDK\src\main\AndroidManifest.xml:16:22-65
+22
+23</manifest>

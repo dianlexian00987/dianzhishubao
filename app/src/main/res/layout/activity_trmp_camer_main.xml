@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cameraRelative"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+
+    <SurfaceView
+        android:id="@+id/surfaceViewEx"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="1dp" />
+
+    <Button
+        android:id="@+id/Startbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/surfaceViewEx"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="82dp"
+        android:text="@string/Startbutton" />
+
+    <Button
+        android:id="@+id/Stopbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/surfaceViewEx"
+        android:layout_marginLeft="16dp"
+        android:layout_toRightOf="@+id/Startbutton"
+        android:text="@string/Stopbutton" />
+
+    <Button
+        android:id="@+id/SwitchCamerabutton_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/Startbutton"
+        android:text="切换" />
+
+</RelativeLayout>
